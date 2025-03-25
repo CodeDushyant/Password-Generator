@@ -110,7 +110,9 @@ const min = inputSlider.min;
   inputSlider.style.backgroundSize =
     ((passwordLength - min) * 100) / (max - min) + "% 100%";
 
-    passwordDisplay.value="Madarchod";
+    passwordDisplay.value="";
+   alert("Sorry");
+  
 }
 
 
