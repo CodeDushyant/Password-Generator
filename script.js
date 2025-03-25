@@ -111,7 +111,7 @@ const min = inputSlider.min;
     ((passwordLength - min) * 100) / (max - min) + "% 100%";
 
     passwordDisplay.value="";
-   alert("Sorry");
+   alert("Sorry We Can't Generate Password");
   
 }
 
